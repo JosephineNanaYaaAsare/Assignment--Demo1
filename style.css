@@ -1,0 +1,68 @@
+
+.Cards {
+   
+    background-color: blueviolet;
+    width: 800px;       
+}
+
+.cardss{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.card {
+    width: 350px;
+    
+    background: tan;
+}
+
+.card1 {
+    width: 350px; 
+}
+
+img{
+    width: 100%;
+}
+
+h3{
+    background-color: green;
+    display: inline-block;
+    border-radius: 10px;
+    width: 120px;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.cl1{
+    background-color: rgb(48, 45, 45);
+    width: 60px;
+    display: flex;
+    justify-content: center; 
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+}
+
+.cl2{
+    background-color: lime;
+    width: 90px;
+    padding: 5px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius: 10px;
+
+
+}
+.main{
+    display: flex;
+    padding: 50px;
+    
+    
+     
+    
+   
+}
+body{
+    display: flex;
+    justify-content: center;
+}
